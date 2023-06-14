@@ -6,7 +6,9 @@ The reason behind this project was to refactor the already finished code, and ma
 
 
 ## Screenshot
-_Users_lukehevey_bootcamp_first-challenge_Develop_index.html.png
+
+![_Users_lukehevey_bootcamp_first-challenge_Develop_index html](https://github.com/lukehevey/first-challenge/assets/135035859/43092271-7781-4bab-a657-ce7a21884cf1)
+
 
 ## Link
 file:///Users/lukehevey/bootcamp/first-challenge/Develop/index.html#social-media-marketing
