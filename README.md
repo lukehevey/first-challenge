@@ -11,4 +11,4 @@ The reason behind this project was to refactor the already finished code, and ma
 
 
 ## Link
-[link](https://lukehevey.github.io/first-challenge/#online-reputation-management)
+[Horiseon Media Marketing](https://lukehevey.github.io/first-challenge/#online-reputation-management)
